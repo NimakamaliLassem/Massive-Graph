@@ -1,0 +1,25 @@
+# Core scientific computing
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Graph analysis
+networkx>=3.0
+python-louvain>=0.16       # community detection (Louvain)
+infomap>=2.7               # directed community detection
+
+# Machine learning
+scikit-learn>=1.3
+
+# Deep learning
+torch>=2.0
+
+# Knowledge graph embeddings
+pykeen>=1.11
+
+# NLP / embeddings
+gensim>=4.3                # Word2Vec for Node2Vec
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
