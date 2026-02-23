@@ -81,9 +81,9 @@ This project studies **community detection** and **link prediction** on two cont
 | Model | LastFM MRR | LastFM Hits@10 | Cisco MRR | Cisco Hits@10 |
 |-------|-----------|----------------|-----------|---------------|
 | GCN (dot-product) | 0.058 | 12.82% | — | — |
-| TransE | 0.073 | 21.8% | **0.848** | **98.2%** |
-| **RotatE** | **0.121** | **31.8%** | 0.682 | 96.2% |
-| DistMult | 0.095 | 21.7% | 0.482 | 90.7% |
+| TransE | 0.073 | 21.8% | **0.828** | **97.6%** |
+| **RotatE** | **0.121** | **31.8%** | 0.662 | 95.1% |
+| DistMult | 0.095 | 21.7% | 0.452 | 89.2% |
 
 ### Transfer Learning: KGE → GCN Node Classification
 
