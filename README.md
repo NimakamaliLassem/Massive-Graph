@@ -1,7 +1,7 @@
 # Massive Graph Management and Analytics Project - CentraleSupelec
 
 **Authors:** Nima Kamali Lassem · Nicola Mambelli  
-**Course:** Massive Graph — Polytechnique Montréal, February 2026
+ February 2026
 
 ---
 
