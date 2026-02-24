@@ -5,6 +5,10 @@
 
 ---
 
+## The Slides Used During Presentation are Available in the Repo:
+- [PowerPoint](/KamaliLassem_Mambelli_Pres.pptx)
+- [PDF](/KamaliLassem_Mambelli_Pres.pdf)
+
 ## Overview
 
 This project studies **community detection** and **link prediction** on two contrasting real-world graph datasets. We progress from classical algorithms through spectral methods, shallow embeddings, and graph neural networks, all the way to knowledge graph embedding models and transfer learning — comparing every method on both datasets.
