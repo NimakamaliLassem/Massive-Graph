@@ -44,7 +44,8 @@ This project studies **community detection** and **link prediction** on two cont
 | Notebook | Description |
 |----------|-------------|
 | [`KamaliLassem_Mambelli.ipynb`](KamaliLassem_Mambelli.ipynb) | **Part 1** — Classical community detection (Louvain, Label Propagation, Greedy Modularity, Girvan-Newman, Infomap) on both datasets with intrinsic and external evaluation |
-| [`KamaliLassem_Mambelli_Part2_progress.ipynb`](KamaliLassem_Mambelli_Part2_progress.ipynb) | **Part 2** — Spectral Clustering, Node2Vec, GCN (node classification & link prediction), TransE / RotatE / DistMult for link prediction, transfer learning (KGE→GCN), and comprehensive comparison |
+| [`KamaliLassem_Mambelli_Part2_progress.ipynb`](KamaliLassem_Mambelli_Part2_progress.ipynb) | **Part 2 Progress** — Spectral Clustering, Node2Vec, GCN (node classification & link prediction) Progress Report|
+| [`KamaliLassem_Mambelli_Part2.ipynb`](KamaliLassem_Mambelli_Part2.ipynb) | **Part 2** — Spectral Clustering, Node2Vec, GCN (node classification & link prediction), TransE / RotatE / DistMult for link prediction, transfer learning (KGE→GCN), and comprehensive comparison |
 | [`KamaliLassem_Mambelli_Presentation.ipynb`](KamaliLassem_Mambelli_Presentation.ipynb) | **Presentation** — Unified notebook: dataset introduction with visualizations, summary of Part 1 & early Part 2 methods with key plots, then detailed code for GCN, KGE models, transfer learning, and final comparison |
 
 ---
